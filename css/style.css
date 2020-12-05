@@ -683,9 +683,9 @@ header .navbar {
 #pricing-table .title p {
   color: #fff;
 }
-#pricing-table .title h2:before, #pricing-table .title h2:after {
-  background: #fff;
-}
+/* #pricing-table .title h2:before, #pricing-table .title h2:after {
+  background: #333;
+} */
 #pricing-table .block {
   color: #fff;
 }
